@@ -1,0 +1,17 @@
+{
+	"applinks": {
+		"apps": [
+			
+		],
+		"details": [
+			{
+				"appID": "3WM3Z6QX39.com.thecoffeehouse.guestapp",
+				"paths": ["*"]
+			},
+			{
+				"appID": "3WM3Z6QX39.com.thecoffeehouse.guestappdemo",
+				"paths": ["*"]
+			}
+		]
+	}
+}
